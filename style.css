@@ -86,7 +86,7 @@ img {
 }
 
 .custom__header {
-  max-width: 416px;
+  max-width: 522px;
 }
 
 .custom__title {
@@ -100,6 +100,11 @@ img {
   font-family: "Roboto";
   line-height: 1.5rem;
   padding-bottom: 1rem;
+  max-width: 400px;
+}
+
+.custom__img {
+  width: 522px;
 }
 
 .care {
@@ -115,7 +120,7 @@ img {
 }
 
 .care__header {
-  max-width: 440px;
+  max-width: 522px;
 }
 
 .care__title {
@@ -131,6 +136,7 @@ img {
 }
 
 .care__img {
+  width: 522px;
   padding-bottom: 1rem;
 }
 
